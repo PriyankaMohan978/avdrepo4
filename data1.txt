@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome1
+=======
+welcome2
+>>>>>>> dev2
